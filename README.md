@@ -1,0 +1,1 @@
+Code and data for 'Evidence weighting in legal judgments follows divisive normalization', submitted to Nature Human Behavior. Run 'setup.R' first, then run the 'figure_.R' files to generate figures, or the 'tables.R' file to generate the tables of model comparisons.
