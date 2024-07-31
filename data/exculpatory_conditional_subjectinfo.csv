@@ -1,0 +1,743 @@
+,cond_evidence,cond_question,task,task_complete,uid,num_catch,num_correct,scenario,start
+0,credible,['bard'],exculpatory_conditional,0.0,sethtest,1.0,0.0,2.0,2020-12-07 21:29:25
+1,credible,['bard'],exculpatory_conditional,0.0,sethtest2,,,,
+2,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,sdfghertesttest,,,,
+3,inculpatory,['bard'],exculpatory_conditional,1.0,A2W3Q8OCO18HEN,6.0,6.0,31.0,2020-12-07 23:00:23
+4,random,['bard'],exculpatory_conditional,0.0,A3CAHROA74QYIE,3.0,0.0,11.0,2020-12-07 23:07:12
+5,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1LLS4RSDRN8JS,3.0,0.0,11.0,2020-12-07 23:12:50
+6,random,['bard'],exculpatory_conditional,0.0,A3QJKATIZJ9NV2,5.0,2.0,22.0,2020-12-07 23:18:01
+7,credible,['bard'],exculpatory_conditional,1.0,A8UJNIY9R8S7W,6.0,6.0,31.0,2020-12-08 00:15:58
+8,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A3VZ5K4RRT6NN8,6.0,6.0,31.0,2020-12-08 01:12:01
+9,random,['bard'],exculpatory_conditional,0.0,A2XP1TT59KNAHG,4.0,1.0,17.0,2020-12-08 01:37:33
+10,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A19IYNU02HE2Z2,3.0,1.0,11.0,2020-12-08 03:07:49
+11,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3XP7CO1MN1TK,,,,
+12,random,['bard'],exculpatory_conditional,1.0,A26M997VYVK0E6,6.0,6.0,31.0,2020-12-08 03:38:27
+13,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AD5XOLO965T04,3.0,0.0,11.0,2020-12-08 03:51:25
+14,inculpatory,['bard'],exculpatory_conditional,0.0,AD65XH6H5ES2Z,2.0,1.0,7.0,2020-12-08 03:55:40
+15,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3PJ4WKS6GY5LH,2.0,1.0,7.0,2020-12-08 05:37:34
+16,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3W03WEOEDEF0L,4.0,1.0,17.0,2020-12-08 05:43:08
+17,inculpatory,['bard'],exculpatory_conditional,1.0,AY0ONNUWEGXH5,6.0,6.0,31.0,2020-12-08 05:54:41
+18,inculpatory,['bard'],exculpatory_conditional,0.0,A345402V11J2GH,,,,
+19,inculpatory,['bard'],exculpatory_conditional,0.0,A3EC13QK58RKRN,2.0,1.0,7.0,2020-12-08 06:33:05
+20,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1T0S48O0CMXBC,6.0,6.0,31.0,2020-12-08 06:58:50
+21,credible,['bard'],exculpatory_conditional,1.0,AT63SR7LJVM8P,6.0,4.0,31.0,2020-12-08 07:08:52
+22,inculpatory,['bard'],exculpatory_conditional,0.0,sfadshdfnh,,,2.0,2020-12-08 07:10:59
+23,credible,['bard'],exculpatory_conditional,0.0,A19JKKHEYCC2ER,3.0,0.0,11.0,2020-12-08 07:39:15
+24,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1V2PEI1IOY436,,,,
+25,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AWP4L4S2UHJRN,,,,
+26,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2HNLXQPYBTD31,1.0,1.0,4.0,2020-12-09 15:30:22
+27,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3RZAUWEE77S82,,,,
+28,random,['bard'],exculpatory_conditional,0.0,A1DMEGX3P8194N,1.0,1.0,2.0,2020-12-09 15:31:34
+29,inculpatory,['bard'],exculpatory_conditional,0.0,A179BU0M6MUF4R,,,1.0,2020-12-09 15:34:39
+30,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,ATPXLUQECTOD2,1.0,0.0,2.0,2020-12-09 15:33:08
+31,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1CXOIKE5ABPHO,,,,
+32,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,AJZTS2L4W9M7Z,6.0,4.0,31.0,2020-12-09 17:30:52
+33,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1ZODC8PBI1JIJ,,,,
+34,random,['bard'],exculpatory_conditional,0.0,A18ASA8WO5DUS6,,,,
+35,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,xgfdertest,1.0,0.0,4.0,2020-12-09 16:30:16
+36,random,['bard'],exculpatory_conditional,0.0,testtesttest,,,1.0,2020-12-09 16:36:24
+37,credible,['bard'],exculpatory_conditional,1.0,AHAD76MW0OBP,6.0,6.0,31.0,2020-12-09 17:15:57
+38,inculpatory,['bard'],exculpatory_conditional,0.0,AQ35C63DKLQ02,4.0,1.0,17.0,2020-12-09 17:17:27
+39,inculpatory,['bard'],exculpatory_conditional,1.0,APB33P7IQEEWK,6.0,6.0,31.0,2020-12-09 17:16:32
+40,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2SU0O75VYGUTR,6.0,6.0,31.0,2020-12-09 17:29:10
+41,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2RD5BQLY57T1P,5.0,2.0,22.0,2020-12-10 06:55:13
+42,inculpatory,['bard'],exculpatory_conditional,0.0,A3EXP0MO3BQRVO,1.0,1.0,6.0,2020-12-09 18:02:50
+43,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1WX06MCBUD03C,6.0,3.0,28.0,2020-12-09 18:10:23
+44,credible,['bard'],exculpatory_conditional,0.0,A872146DSKJF,,,1.0,2020-12-09 18:11:52
+45,inculpatory,['bard'],exculpatory_conditional,1.0,A2D2JX8R0QU9G4,6.0,6.0,31.0,2020-12-09 18:34:59
+46,random,['bard'],exculpatory_conditional,0.0,A2STYP1LL5OZEI,,,,
+47,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A8S4SJJ0S6L29,6.0,4.0,31.0,2020-12-09 18:54:05
+48,inculpatory,['bard'],exculpatory_conditional,0.0,AH5YADVNFLETW,,,,
+49,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A16R2T29YRY15I,6.0,6.0,31.0,2020-12-09 20:36:09
+50,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1CDPZMO705DEQ,5.0,2.0,22.0,2020-12-09 20:38:10
+51,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2GKVQ1B4BRESD,,,2.0,2020-12-09 20:36:20
+52,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2UR8ZKKO51K5N,6.0,6.0,31.0,2020-12-09 20:40:49
+53,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A30BSJVCI7M54I,6.0,4.0,31.0,2020-12-09 20:45:10
+54,random,['bard'],exculpatory_conditional,1.0,A20K3Y13J7378R,6.0,4.0,31.0,2020-12-09 20:48:34
+55,random,['bard'],exculpatory_conditional,0.0,A2ZHBK2MDL2L51,5.0,2.0,22.0,2020-12-09 20:51:09
+56,inculpatory,['bard'],exculpatory_conditional,0.0,AIWSB4YTN32GF,2.0,2.0,9.0,2020-12-09 21:13:02
+57,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A20N1NK5X5S88F,6.0,6.0,31.0,2020-12-09 21:30:40
+58,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A337Y4X67PY4QI,6.0,6.0,31.0,2020-12-09 21:38:41
+59,inculpatory,['bard'],exculpatory_conditional,1.0,A3ID0DMOFIWSMY,6.0,4.0,31.0,2020-12-09 21:40:25
+60,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A4G52U0SL6JC9,6.0,3.0,28.0,2020-12-05 21:36:47
+61,random,['bard'],exculpatory_conditional,0.0,AYWWE1UD0XJFB,3.0,1.0,11.0,2020-12-09 22:00:12
+62,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,ARXOBFL5GYG57,4.0,2.0,17.0,2020-12-09 22:20:54
+63,credible,['bard'],exculpatory_conditional,0.0,A7PW12EI5IYUC,4.0,1.0,17.0,2020-12-09 22:34:28
+64,random,['bard'],exculpatory_conditional,0.0,AT20PW4G38BMM,1.0,0.0,2.0,2020-12-09 22:35:03
+65,inculpatory,['bard'],exculpatory_conditional,1.0,A21Z96QC4W1KYN,6.0,6.0,31.0,2020-12-09 22:39:43
+66,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3197EMDUFJOOQ,4.0,1.0,17.0,2020-12-09 22:42:03
+67,inculpatory,['bard'],exculpatory_conditional,1.0,A30Q905XWQP2S8,6.0,5.0,31.0,2020-12-09 22:44:03
+68,random,['bard'],exculpatory_conditional,0.0,BRITTIANIE%20WALKO,5.0,2.0,22.0,2020-12-09 22:48:57
+69,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3Q9TH5675PIAH,,,,
+70,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2MOC4PTJYY15B,6.0,6.0,31.0,2020-12-09 22:57:09
+71,credible,['bard'],exculpatory_conditional,0.0,A16TN5X2SAPVCA,,,1.0,2020-12-09 22:59:03
+72,random,['bard'],exculpatory_conditional,0.0,A1YNYXF6MR3V6Q,4.0,1.0,17.0,2020-12-09 23:05:55
+73,inculpatory,['bard'],exculpatory_conditional,0.0,A2FACS78RSNAU3,1.0,1.0,2.0,2020-12-09 23:17:22
+74,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A6ZAKE3FP8YKY,6.0,6.0,31.0,2020-12-09 23:19:51
+75,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A31BIJVDYW40U2,6.0,3.0,28.0,2020-12-09 23:20:33
+76,random,['bard'],exculpatory_conditional,0.0,A1YO75Q6M618HU,2.0,1.0,7.0,2020-12-09 23:29:44
+77,credible,['bard'],exculpatory_conditional,1.0,A2YC6PEMIRSOAA,6.0,5.0,31.0,2020-12-09 23:33:14
+78,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AYVNBNVR4NO6T,2.0,2.0,7.0,2020-12-09 23:36:14
+79,random,['bard'],exculpatory_conditional,0.0,ADYPY8JXSEPHB,6.0,3.0,28.0,2020-12-09 23:38:54
+80,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1XEESFWD6X2R2,,,,
+81,random,['bard'],exculpatory_conditional,0.0,A1WVJ1Y7LOEBWF,4.0,1.0,17.0,2020-12-10 00:18:50
+82,random,['bard'],exculpatory_conditional,1.0,A3N40Z29QX64UJ,6.0,6.0,31.0,2020-12-10 00:41:01
+83,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,AVA9NOJEXUZH8,6.0,5.0,31.0,2020-12-10 00:40:38
+84,credible,['bard'],exculpatory_conditional,0.0,ADE7A45FZKZYZ,3.0,0.0,11.0,2020-12-10 00:44:37
+85,inculpatory,['bard'],exculpatory_conditional,0.0,ABRO8HPL2QU53,3.0,0.0,11.0,2020-12-10 01:13:37
+86,inculpatory,['bard'],exculpatory_conditional,0.0,A1EPF6FSQT3PMO,5.0,2.0,21.0,2020-12-10 01:21:54
+87,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1AUA7XGKD5HGW,4.0,1.0,17.0,2020-12-10 01:29:25
+88,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A3T9WZOUQGE2UW,6.0,6.0,31.0,2020-12-10 01:46:45
+89,random,['bard'],exculpatory_conditional,0.0,A39K9AUNFHTAVX,,,,
+90,random,['bard'],exculpatory_conditional,1.0,AMSC9C0BDL66O,6.0,6.0,31.0,2020-12-10 01:38:38
+91,credible,['bard'],exculpatory_conditional,0.0,AMSC9C0BDL66O,6.0,6.0,31.0,2020-12-10 01:38:38
+92,random,['bard'],exculpatory_conditional,0.0,A1GVWEIVOTYF1B,7.0,1.0,17.0,2020-12-10 01:40:32
+93,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2GXJIQGLVM1I7,4.0,1.0,17.0,2020-12-10 01:44:14
+94,credible,['bard'],exculpatory_conditional,0.0,A27NM2WZXST2HD,3.0,0.0,11.0,2020-12-10 02:12:47
+95,random,['bard'],exculpatory_conditional,0.0,A3ILB6HL019K92,,,2.0,2020-12-10 02:14:23
+96,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A3Q5PW77KNIHFZ,6.0,6.0,31.0,2020-12-10 02:18:58
+97,inculpatory,['bard'],exculpatory_conditional,1.0,A11EBMORZXLJJJ,6.0,5.0,31.0,2020-12-10 02:22:02
+98,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1JWAHBHP59E9H,6.0,6.0,31.0,2020-12-10 02:22:04
+99,credible,['bard'],exculpatory_conditional,1.0,A3IDJVAGS1SCJ5,6.0,6.0,31.0,2020-12-10 02:46:27
+100,inculpatory,['bard'],exculpatory_conditional,0.0,AYR6ZQ8YXMSF5,3.0,0.0,11.0,2020-12-10 02:47:01
+101,random,['bard'],exculpatory_conditional,0.0,A2G6YNOLVRPS8Z,2.0,1.0,7.0,2020-12-10 02:52:15
+102,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A104UA9AMS2P9O,6.0,6.0,31.0,2020-12-10 03:31:34
+103,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1H6DME332958N,4.0,1.0,17.0,2020-12-10 03:34:55
+104,credible,['bard'],exculpatory_conditional,1.0,A1W3QW2GKDBHWE,6.0,5.0,31.0,2020-12-10 04:11:33
+105,credible,['bard'],exculpatory_conditional,0.0,AL8TL480ET24G,3.0,1.0,7.0,2020-12-10 08:32:10
+106,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,ALF3RHOV9649Q,2.0,0.0,8.0,2020-12-10 10:40:58
+107,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,AQ6GU6IZHIFWZ,6.0,6.0,31.0,2020-12-10 10:59:20
+108,inculpatory,['bard'],exculpatory_conditional,0.0,A3DUPRZSMU9W5R,3.0,3.0,15.0,2020-12-10 12:38:50
+109,credible,['bard'],exculpatory_conditional,0.0,A2M6NAML0AGAJZ,3.0,0.0,11.0,2020-12-10 12:39:17
+110,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AURJJZT705H,3.0,1.0,14.0,2020-12-10 12:40:21
+111,inculpatory,['bard'],exculpatory_conditional,0.0,A183NCBVNIITY8,4.0,1.0,17.0,2020-12-10 12:40:42
+112,inculpatory,['bard'],exculpatory_conditional,0.0,AYKUOC2P53YUY,2.0,1.0,10.0,2020-12-10 12:45:41
+113,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3KZEX1DDMXKDU,,,1.0,2020-12-10 12:45:34
+114,random,['bard'],exculpatory_conditional,0.0,A3BV3UTERL8G0D,,,2.0,2020-12-10 12:43:25
+115,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1UOOMLIEMRX02,,,,
+116,credible,['bard'],exculpatory_conditional,0.0,A8E3Z8XA32R90,,,,
+117,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1291IB8XYSOOZ,,,1.0,2020-12-10 20:49:02
+118,random,['bard'],exculpatory_conditional,0.0,A3BQYH98U0B97Y,,,2.0,2020-12-10 12:47:24
+119,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1RFECS63DTC3U,1.0,0.0,2.0,2020-12-10 12:46:47
+120,credible,['bard'],exculpatory_conditional,0.0,A2BABL5AHUOYC7,1.0,1.0,4.0,2020-12-10 12:48:28
+121,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1Y9D4RKC3BZQ3,,,,
+122,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A219NJ4C0XSZFQ,,,1.0,2020-12-10 12:51:01
+123,random,['bard'],exculpatory_conditional,0.0,AN17J394HQUGR,,,,
+124,inculpatory,['bard'],exculpatory_conditional,0.0,A33BNKC3ALUAHC,4.0,2.0,17.0,2020-12-10 15:31:13
+125,credible,['bard'],exculpatory_conditional,1.0,A3O2SXUZ82SLG5,6.0,6.0,31.0,2020-12-10 15:41:20
+126,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2YGC39ELGDQ0,6.0,5.0,31.0,2020-12-10 15:41:43
+127,random,['bard'],exculpatory_conditional,0.0,A2BWBA14P7IIXS,3.0,0.0,11.0,2020-12-10 15:42:46
+128,inculpatory,['bard'],exculpatory_conditional,0.0,A30AVAUE0IWH8K,4.0,1.0,17.0,2020-12-10 15:53:03
+129,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A29WY9TS23RGCX,2.0,0.0,7.0,2020-12-10 15:54:01
+130,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2WC8DV7EB0FOY,6.0,5.0,31.0,2020-12-10 15:58:56
+131,inculpatory,['bard'],exculpatory_conditional,1.0,A4548F39QG6RH,6.0,4.0,31.0,2020-12-10 16:04:30
+132,random,['bard'],exculpatory_conditional,0.0,AJ344H1A3BMAC,3.0,0.0,11.0,2020-12-10 16:10:26
+133,inculpatory,['bard'],exculpatory_conditional,1.0,A2OAQKG05DAINW,6.0,5.0,31.0,2020-12-10 16:47:16
+134,random,['bard'],exculpatory_conditional,0.0,A1SEIDC684CBLV,,,,
+135,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2EPBSY0VPI38S,6.0,6.0,31.0,2020-12-10 16:29:19
+136,inculpatory,['bard'],exculpatory_conditional,0.0,A2HO2H720XV8HU,3.0,1.0,11.0,2020-12-10 16:22:26
+137,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2XG2PT1TH7BAF,4.0,1.0,17.0,2020-12-10 16:29:00
+138,inculpatory,['bard'],exculpatory_conditional,0.0,A26MS4PXKMFRV3,1.0,0.0,6.0,2020-12-10 16:20:03
+139,credible,['bard'],exculpatory_conditional,0.0,A3OLBTISKEB354,4.0,1.0,17.0,2020-12-10 16:32:25
+140,inculpatory,['bard'],exculpatory_conditional,0.0,A398HHOZ31F0KW,,,,
+141,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A58W2BH6P68HP,1.0,0.0,2.0,2020-12-10 16:30:39
+142,inculpatory,['bard'],exculpatory_conditional,0.0,A6ECCFRGJYRQ7,,,,
+143,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1C2PM0H6Y3835,4.0,1.0,17.0,2020-12-10 16:36:23
+144,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1KOBLL83SICGQ,3.0,3.0,15.0,2020-12-10 15:40:16
+145,credible,['bard'],exculpatory_conditional,0.0,A2F1TOP137DLVS,3.0,0.0,11.0,2020-12-10 16:40:54
+146,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A3914P24XPNPY3,6.0,6.0,31.0,2020-12-10 16:41:37
+147,inculpatory,['bard'],exculpatory_conditional,0.0,A3NYIJYBHAJ74V,3.0,0.0,11.0,2020-12-10 16:44:36
+148,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2061L1AOYI5H0,,,,
+149,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1J4SLXI1A1PF,6.0,6.0,31.0,2020-12-10 16:54:05
+150,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A49WTQG4MBT9Z,6.0,6.0,31.0,2020-12-10 16:52:17
+151,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2G7F8S617H0BB,6.0,6.0,31.0,2020-12-10 16:55:32
+152,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A30IRRLVNC7MZS,3.0,1.0,11.0,2020-12-10 16:56:52
+153,random,['bard'],exculpatory_conditional,1.0,A2PBRGT71DUYOY,6.0,6.0,31.0,2020-12-10 17:08:38
+154,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1H198MRIM37T1,6.0,6.0,31.0,2020-12-10 17:02:51
+155,inculpatory,['bard'],exculpatory_conditional,0.0,A1TEXCUTI4IUUN,,,,
+156,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AVRYLIZIPNB87,3.0,0.0,11.0,2020-12-10 17:02:19
+157,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,AP05055ECEO89,6.0,6.0,31.0,2020-12-10 17:11:40
+158,random,['bard'],exculpatory_conditional,0.0,ATL5E9WVVHYPR,3.0,0.0,11.0,2020-12-10 17:12:41
+159,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A3FES0O1E6NHO7,6.0,5.0,31.0,2020-12-10 17:18:02
+160,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,AUKLH5Q03CV9Y,6.0,5.0,31.0,2020-12-10 17:19:00
+161,credible,['bard'],exculpatory_conditional,0.0,A1KWGO222QQ31O,2.0,1.0,7.0,2020-12-10 17:20:11
+162,credible,['bard'],exculpatory_conditional,0.0,ALQPYL9K0CJTR,4.0,1.0,17.0,2020-12-10 17:20:08
+163,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2PB1IT2WPJ9PK,,,2.0,2020-12-10 17:20:44
+164,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A21RZDH4S1Z9T7,6.0,6.0,31.0,2020-12-10 17:21:25
+165,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A19X9UT6X9JXYW,6.0,4.0,31.0,2020-12-10 17:21:25
+166,random,['bard'],exculpatory_conditional,0.0,AXNWW5TRHTKBP,6.0,3.0,28.0,2020-12-10 17:23:33
+167,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2YFQS0N1IAN9I,1.0,1.0,6.0,2020-12-10 17:29:08
+168,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2Z9AM6QCN05K6,,,2.0,2020-12-10 17:29:26
+169,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3OORE3AIVRIHU,,,,
+170,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2FBEX2BHDFY7F,,,2.0,2020-12-10 17:41:01
+171,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AJ5DO6BRNXQOA,3.0,0.0,11.0,2020-12-10 17:34:14
+172,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1IKH0O3IO4RFC,6.0,6.0,31.0,2020-12-10 17:35:51
+173,inculpatory,['bard'],exculpatory_conditional,1.0,A2WQTXH9WEQDGI,6.0,5.0,31.0,2020-12-10 17:41:43
+174,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A3OP9SCMH0KPJL,6.0,6.0,31.0,2020-12-10 17:41:23
+175,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1M0QJIES2FARU,6.0,6.0,31.0,2020-12-10 17:45:59
+176,inculpatory,['bard'],exculpatory_conditional,0.0,A239GSKF28AAC2,5.0,2.0,22.0,2020-12-10 17:48:12
+177,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AO2XF7FZ9TKTB,,,,
+178,random,['bard'],exculpatory_conditional,1.0,A2UNX0YQHOQ9WZ,6.0,5.0,31.0,2020-12-10 17:54:28
+179,credible,['bard'],exculpatory_conditional,0.0,A2P7GFS8Q54EB2,4.0,4.0,17.0,2020-12-10 18:12:42
+180,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1W6R9PXWYYSL,,,,
+181,inculpatory,['bard'],exculpatory_conditional,0.0,A1WPLIFLNRVL99,3.0,0.0,11.0,2020-12-10 18:19:01
+182,credible,['bard'],exculpatory_conditional,0.0,A293TGPOMBEEBQ,,,,
+183,inculpatory,['bard'],exculpatory_conditional,0.0,A2ZPBM69ETIAPH,5.0,2.0,22.0,2020-12-10 18:24:13
+184,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2LV5SGA8S4V8J,1.0,0.0,5.0,2020-12-10 18:36:17
+185,credible,['bard'],exculpatory_conditional,0.0,A37FX0R0ONGZBT,3.0,0.0,10.0,2020-12-10 18:56:30
+186,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,AYHK8DTZONHKC,6.0,6.0,31.0,2020-12-10 19:16:29
+187,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A3QPHYMDXHB782,6.0,6.0,31.0,2020-12-10 19:00:56
+188,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A33YPBYXXZP3HY,1.0,0.0,2.0,2020-12-10 19:08:49
+189,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A37KUCVO09R832,1.0,0.0,2.0,2020-12-10 19:13:58
+190,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AG9SELXHPZ7GJ,,,1.0,2020-12-11 03:22:39
+191,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A23AQNRU1PDKQG,4.0,1.0,17.0,2020-12-10 19:25:12
+192,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3D27P6AKBZISS,2.0,1.0,7.0,2020-12-10 19:28:40
+193,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A5WWHKD82I8UE,6.0,6.0,31.0,2020-12-10 19:36:05
+194,credible,['bard'],exculpatory_conditional,0.0,A1IZ4NX41GKU4X,1.0,1.0,2.0,2020-12-10 19:32:49
+195,random,['bard'],exculpatory_conditional,0.0,ALWEKN6GSWA8Q,,,,
+196,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,ACMCJFX5P8UGL,,,2.0,2020-12-10 20:16:56
+197,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2WNCIZ47VXDIC,6.0,6.0,31.0,2020-12-10 20:43:06
+198,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1WN4CVHDGVH2Y,5.0,3.0,25.0,2020-12-10 20:58:16
+199,inculpatory,['bard'],exculpatory_conditional,0.0,A23B9UVYZ52CL0,4.0,4.0,19.0,2020-12-10 21:09:42
+200,credible,['bard'],exculpatory_conditional,0.0,A3KHKFLJZN00QI,1.0,0.0,2.0,2020-12-10 21:09:34
+201,inculpatory,['bard'],exculpatory_conditional,1.0,AMI8H1U9OH4SM,6.0,6.0,31.0,2020-12-10 21:22:35
+202,random,['bard'],exculpatory_conditional,1.0,A3RQXIFANS2E9Q,6.0,5.0,31.0,2020-12-10 22:04:51
+203,random,['bard'],exculpatory_conditional,0.0,A2YFA016X589O,1.0,1.0,2.0,2020-12-10 22:06:58
+204,random,['bard'],exculpatory_conditional,1.0,A3SV5X0R9ARFOK,6.0,6.0,31.0,2020-12-10 22:13:13
+205,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3PNGAPUL4IW9M,1.0,0.0,2.0,2020-12-10 22:35:00
+206,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1KMEBRRTN67LP,6.0,6.0,31.0,2020-12-10 22:38:57
+207,random,['bard'],exculpatory_conditional,1.0,AZ2P6DGG5M6SH,6.0,6.0,31.0,2020-12-10 22:44:30
+208,inculpatory,['bard'],exculpatory_conditional,1.0,A2ZD06QDBVKF59,6.0,6.0,31.0,2020-12-10 22:59:33
+209,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1BJFYHXK6YDX1,6.0,4.0,31.0,2020-12-11 01:31:31
+210,inculpatory,['bard'],exculpatory_conditional,0.0,A2462PPGARQY26,3.0,0.0,11.0,2020-12-11 00:00:23
+211,inculpatory,['bard'],exculpatory_conditional,0.0,A2JW59JRBWUMR2,2.0,1.0,7.0,2020-12-11 00:27:00
+212,inculpatory,['bard'],exculpatory_conditional,0.0,AOVWFZPOQ1J57,3.0,0.0,11.0,2020-12-11 00:35:45
+213,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2FFYLWXNYR0LE,,,,
+214,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2SP949AA8MGFZ,5.0,2.0,22.0,2020-12-11 01:44:51
+215,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2S23A49RFCDZ1,5.0,3.0,23.0,2020-12-11 01:58:34
+216,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1MTRZDRKNB9GV,6.0,6.0,31.0,2020-12-11 02:08:13
+217,random,['bard'],exculpatory_conditional,1.0,A1SG8SYLTU11I,6.0,6.0,31.0,2020-12-11 02:18:06
+218,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,ARXQ907GWYAV5,4.0,3.0,11.0,2020-12-11 02:16:44
+219,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3MXI2O3JZ0TZH,1.0,0.0,7.0,2020-12-11 02:18:08
+220,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,APMUZYFANYEZ3,2.0,1.0,8.0,2020-12-11 02:23:09
+221,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2VHKZCN5B9SR1,6.0,6.0,31.0,2020-12-11 02:47:42
+222,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,PAUL%20WAGNER,,,,
+223,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A29R8JAUZ6VLM2,3.0,0.0,11.0,2020-12-11 04:04:13
+224,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3H5L34VW64JNA,1.0,1.0,2.0,2020-12-11 04:17:21
+225,credible,['bard'],exculpatory_conditional,1.0,A2WRTRJ53H9XIP,6.0,6.0,31.0,2020-12-11 05:21:54
+226,random,['bard'],exculpatory_conditional,0.0,A1DFIUXCX2GOTK,5.0,2.0,22.0,2020-12-11 04:42:41
+227,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,APF8R7U9MO1EF,5.0,2.0,22.0,2020-12-11 07:04:09
+228,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A35LXYBKSHBZFG,5.0,2.0,22.0,2020-12-11 07:34:37
+229,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1WH8D2U3Z73VI,6.0,5.0,31.0,2020-12-11 08:13:52
+230,random,['bard'],exculpatory_conditional,0.0,A11442N7K4VIP8,,,2.0,2020-12-11 08:28:06
+231,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,fdxhfghgfjh,,,,
+232,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AZYDMT9575LMF,2.0,0.0,7.0,2020-12-11 10:03:26
+233,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3NLLSXAL86VIR,1.0,0.0,4.0,2020-12-11 13:07:54
+234,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3JU197A3A56WZ,3.0,0.0,11.0,2020-12-11 13:07:55
+235,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A32WUBFHQKYYIW,6.0,4.0,31.0,2020-12-11 13:11:42
+236,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AWIST8E0KAPW0,,,,
+237,inculpatory,['bard'],exculpatory_conditional,0.0,A2VFEDAK5C1E1O,,,,
+238,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2AR3THJJ83IG0,,,,
+239,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2ALESYWNEZU1D,6.0,5.0,31.0,2020-12-11 13:12:00
+240,random,['bard'],exculpatory_conditional,0.0,A2GIW713XO9AUZ,3.0,1.0,11.0,2020-12-11 16:10:43
+241,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AUB2Y0SIDWZEV,,,2.0,2020-12-11 13:14:15
+242,credible,['bard'],exculpatory_conditional,1.0,A2AYR99VJ3X2AZ,6.0,6.0,31.0,2020-12-11 13:14:21
+243,random,['bard'],exculpatory_conditional,0.0,A1A04ATYZR85AW,1.0,1.0,2.0,2020-12-11 13:11:57
+244,random,['bard'],exculpatory_conditional,1.0,A3TKY3B2P962ZF,6.0,6.0,31.0,2020-12-11 13:13:50
+245,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3LXERMGSXIFXC,1.0,0.0,2.0,2020-12-11 16:16:05
+246,inculpatory,['bard'],exculpatory_conditional,0.0,A1DS0ULEMDYQ2P,2.0,0.0,7.0,2020-12-11 13:14:32
+247,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A29XYCCRNUDB30,3.0,0.0,11.0,2020-12-11 13:14:52
+248,credible,['bard'],exculpatory_conditional,1.0,A304UJAE051J89,6.0,6.0,31.0,2020-12-11 13:18:16
+249,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2A3DDR0PDOIYL,6.0,6.0,31.0,2020-12-11 13:16:34
+250,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1UUESLCZS6K53,5.0,5.0,23.0,2020-12-11 13:21:38
+251,random,['bard'],exculpatory_conditional,0.0,A2UROUZSFPGO4P,2.0,0.0,10.0,2020-12-11 13:21:55
+252,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A31LREJ092QUE6,1.0,0.0,2.0,2020-12-11 13:21:47
+253,credible,['bard'],exculpatory_conditional,0.0,A32CVZVH3C1I20,,,,
+254,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2CKWUMTSWIZZQ,,,1.0,2020-12-11 13:21:12
+255,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1NE92HD8K7IDD,,,2.0,2020-12-11 13:25:30
+256,credible,['bard'],exculpatory_conditional,0.0,A1N04FX8AHYPBU,4.0,1.0,17.0,2020-12-11 13:26:01
+257,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1I66SKK9RFQSA,6.0,4.0,31.0,2020-12-11 13:26:44
+258,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A3T3H3RWDSX5P2,6.0,5.0,31.0,2020-12-11 13:28:08
+259,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AWNNSMTSL6FWG,3.0,2.0,14.0,2020-12-11 13:32:14
+260,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A36QXX9UMJ7Y0R,,,,
+261,inculpatory,['bard'],exculpatory_conditional,1.0,A1L2N1X8U8Z3W7,6.0,6.0,31.0,2020-12-11 13:36:54
+262,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1SKOLSHSTHNR1,3.0,0.0,11.0,2020-12-11 13:37:36
+263,credible,['bard'],exculpatory_conditional,0.0,A25386DGATQAU0,2.0,2.0,8.0,2020-12-11 13:38:11
+264,inculpatory,['bard'],exculpatory_conditional,0.0,A1FRUXQIM9KPR8,4.0,1.0,17.0,2020-12-11 13:42:27
+265,inculpatory,['bard'],exculpatory_conditional,0.0,A2MOKIEQZ0OF2M,2.0,2.0,8.0,2020-12-11 13:48:00
+266,inculpatory,['bard'],exculpatory_conditional,0.0,A2NAKIXS3DVGAA,4.0,4.0,17.0,2020-12-11 13:48:56
+267,random,['bard'],exculpatory_conditional,1.0,AVA1LGWA3HRCN,6.0,6.0,31.0,2020-12-11 19:49:05
+268,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A15X377ERCSJ9I,6.0,4.0,30.0,2020-12-11 14:52:43
+269,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AMLZT92RF3MYY,,,1.0,2020-12-11 13:54:30
+270,credible,['bard'],exculpatory_conditional,0.0,A1A8WM8RLC94AD,,,,
+271,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,dsdg12test,,,,
+272,credible,['bard'],exculpatory_conditional,0.0,A3TUOXKPVHWTQS,3.0,1.0,15.0,2020-12-11 14:21:53
+273,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A3HMVAA8IWSF0O,6.0,5.0,31.0,2020-12-11 14:26:22
+274,credible,['bard'],exculpatory_conditional,0.0,A2488KXHWJTJR7,,,2.0,2020-12-11 14:28:43
+275,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AUFLTHQAXWLH1,,,,
+276,random,['bard'],exculpatory_conditional,0.0,AZX1NVEY111PP,1.0,1.0,2.0,2020-12-11 14:45:13
+277,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A28DGS1MAHMK2C,6.0,5.0,31.0,2020-12-11 15:06:50
+278,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2BZY06YRWGEDL,4.0,3.0,17.0,2020-12-11 15:07:06
+279,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,testytesty,,,1.0,2020-12-11 19:45:54
+280,random,['bard'],exculpatory_conditional,0.0,AK84XDMCA5IFR,,,,
+281,random,['bard'],exculpatory_conditional,1.0,A1GNF163UX4A9D,6.0,5.0,31.0,2020-12-11 20:10:53
+282,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2CJ973KYD6O0V,,,,
+283,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2ZO4SP6FRIIUJ,6.0,6.0,31.0,2020-12-11 20:13:43
+284,random,['bard'],exculpatory_conditional,1.0,A3UJSDFJ9LBQ6Z,6.0,6.0,31.0,2020-12-11 20:14:25
+285,credible,['bard'],exculpatory_conditional,1.0,A1WOUFGHOIOCNC,6.0,6.0,31.0,2020-12-11 20:20:48
+286,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A4LX69IQD39NZ,,,,
+287,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2O5Z1YZDTNNXT,,,,
+288,random,['bard'],exculpatory_conditional,1.0,A2JTSH1VPJQ8FR,6.0,6.0,31.0,2020-12-11 20:23:14
+289,inculpatory,['bard'],exculpatory_conditional,0.0,A2L5PLZGHIVGIF,1.0,0.0,2.0,2020-12-11 20:25:41
+290,inculpatory,['bard'],exculpatory_conditional,0.0,A3KW3GCGAY6BOG,4.0,1.0,17.0,2020-12-11 20:32:42
+291,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,AGJ93QB6APHIL,6.0,5.0,31.0,2020-12-11 20:36:45
+292,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2BEHSOYPL6V0L,4.0,1.0,17.0,2020-12-11 20:49:00
+293,credible,['bard'],exculpatory_conditional,1.0,A1VULD2EL744W2,6.0,4.0,31.0,2020-12-11 20:58:29
+294,credible,['bard'],exculpatory_conditional,0.0,A2FKP5TAELZ3Y6,4.0,1.0,17.0,2020-12-11 21:07:50
+295,credible,['bard'],exculpatory_conditional,1.0,ASF5V3K4IFP4K,6.0,5.0,31.0,2020-12-11 21:08:09
+296,random,['bard'],exculpatory_conditional,0.0,A2BE2QDWTR66NX,,,,
+297,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,AHTOV9GBHC8XF,6.0,4.0,31.0,2020-12-12 05:28:40
+298,credible,['bard'],exculpatory_conditional,1.0,A1JBH17VQADOXZ,6.0,5.0,31.0,2020-12-11 21:29:52
+299,random,['bard'],exculpatory_conditional,0.0,A3RKGEBVH1IKEC,6.0,3.0,28.0,2020-12-11 21:39:14
+300,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,APPVUAZCTRIP2,5.0,2.0,22.0,2020-12-11 21:40:46
+301,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1KXYURHCYHKOL,6.0,6.0,31.0,2020-12-11 21:43:23
+302,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2N92BZDCKQO2J,6.0,5.0,31.0,2020-12-11 21:48:15
+303,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A31B2A1VC7LUP9,6.0,5.0,31.0,2020-12-11 21:53:36
+304,inculpatory,['bard'],exculpatory_conditional,0.0,A2PQ9WLMNBO67S,2.0,0.0,10.0,2020-12-11 21:54:56
+305,credible,['bard'],exculpatory_conditional,0.0,A13YTGRLTS80MU,1.0,0.0,2.0,2020-12-11 22:02:48
+306,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2L1ALQCU6Z5XP,5.0,2.0,22.0,2020-12-11 22:03:32
+307,inculpatory,['bard'],exculpatory_conditional,1.0,A1CYM5JVIZL7YM,6.0,5.0,31.0,2020-12-11 22:04:40
+308,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3136AWQDKWVUX,1.0,0.0,2.0,2020-12-11 22:08:08
+309,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A26IT4N589RGDC,3.0,0.0,11.0,2020-12-11 22:06:33
+310,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A9V4T6Q54GFLD,6.0,6.0,31.0,2020-12-11 22:09:41
+311,inculpatory,['bard'],exculpatory_conditional,1.0,A3U4SSUB9ZZ9T0,6.0,6.0,31.0,2020-12-11 22:12:12
+312,inculpatory,['bard'],exculpatory_conditional,0.0,A12HLCUXMU9JYT,2.0,2.0,7.0,2020-12-11 22:11:38
+313,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1BC6T3R2VIBFC,,,,
+314,inculpatory,['bard'],exculpatory_conditional,1.0,A3MKQ62CNO0MM8,6.0,6.0,31.0,2020-12-11 22:14:58
+315,credible,['bard'],exculpatory_conditional,1.0,APJ71BNM4KAVD,6.0,5.0,31.0,2020-12-11 22:15:42
+316,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A3RKW383ZRTPWU,6.0,6.0,31.0,2020-12-11 22:16:27
+317,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AL5UCBZ7MOV7V,5.0,2.0,22.0,2020-12-11 22:17:26
+318,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2UBTVNS87JDIM,6.0,5.0,31.0,2020-12-11 22:19:26
+319,random,['bard'],exculpatory_conditional,0.0,A23TH591R5OPKP,1.0,1.0,4.0,2020-12-11 22:23:20
+320,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,ARIY7R4C3ZUIO,6.0,6.0,31.0,2020-12-11 22:24:38
+321,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1J1ZM062PH3FN,3.0,0.0,11.0,2020-12-11 22:30:35
+322,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A47P5PR27PW3B,6.0,6.0,31.0,2020-12-11 22:33:44
+323,credible,['bard'],exculpatory_conditional,0.0,A1IWIGK6CJUU4,3.0,0.0,10.0,2020-12-11 22:34:54
+324,inculpatory,['bard'],exculpatory_conditional,1.0,A3HE7G3O3OST51,6.0,6.0,31.0,2020-12-11 22:40:06
+325,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1CY01G7686ORZ,6.0,6.0,31.0,2020-12-11 22:41:43
+326,random,['bard'],exculpatory_conditional,0.0,A8LXWZ0ZSAMC9,1.0,0.0,4.0,2020-12-11 22:50:24
+327,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1BIQMZEP659HA,2.0,0.0,7.0,2020-12-11 22:57:29
+328,inculpatory,['bard'],exculpatory_conditional,0.0,A2HTUVZ5XQAC2D,2.0,0.0,7.0,2020-12-11 22:57:22
+329,random,['bard'],exculpatory_conditional,0.0,A5X74I5OICJT9,,,,
+330,random,['bard'],exculpatory_conditional,0.0,A2DJQXR3HJY68K,2.0,1.0,7.0,2020-12-11 23:14:10
+331,random,['bard'],exculpatory_conditional,1.0,A2AY4ZM3Y9BTYZ,6.0,6.0,31.0,2020-12-11 23:25:37
+332,credible,['bard'],exculpatory_conditional,1.0,A3VL1CBZ3BGQK7,6.0,6.0,31.0,2020-12-11 23:31:11
+333,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1OUNA16VHHMH4,2.0,0.0,7.0,2020-12-11 23:37:24
+334,random,['bard'],exculpatory_conditional,1.0,AZ4TQY4ZUPWLQ,6.0,6.0,31.0,2020-12-11 23:43:16
+335,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A3OHYXTHW11HS7,6.0,6.0,31.0,2020-12-11 23:43:39
+336,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2O6G4H34WL27V,5.0,2.0,22.0,2020-12-12 07:42:34
+337,random,['bard'],exculpatory_conditional,1.0,A2FQON8PKT8ZB1,6.0,6.0,31.0,2020-12-12 00:16:51
+338,inculpatory,['bard'],exculpatory_conditional,1.0,A6KOTWP7N7RLU,6.0,6.0,31.0,2020-12-12 00:21:38
+339,inculpatory,['bard'],exculpatory_conditional,1.0,A28W67ZXNQ3K19,6.0,6.0,31.0,2020-12-12 00:21:57
+340,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2MY7DGAZ4DXP2,3.0,0.0,11.0,2020-12-12 00:19:41
+341,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A26TP4HHSINK5E,6.0,6.0,31.0,2020-12-12 00:30:13
+342,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,ATLLNM6YOCOGG,,,,
+343,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2R75YFKVALBXE,6.0,6.0,31.0,2020-12-12 00:34:11
+344,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AL0WBXQQ2DVOW,4.0,3.0,17.0,2020-12-12 00:32:42
+345,random,['bard'],exculpatory_conditional,0.0,A2VB2MZFRO7VN5,,,,
+346,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,AAURS65ZO4SXC,6.0,5.0,31.0,2020-12-12 00:53:38
+347,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,AAA96Z6PLD746,6.0,6.0,31.0,2020-12-12 00:56:14
+348,credible,['bard'],exculpatory_conditional,0.0,AOJJK61F8QF22,4.0,1.0,17.0,2020-12-12 00:57:40
+349,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A3NMU6AVMQ0QDB,6.0,6.0,31.0,2020-12-12 00:57:21
+350,credible,['bard'],exculpatory_conditional,0.0,A1RGMH1UFYST6L,,,2.0,2020-12-12 01:17:44
+351,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A5DTG37NL4GAG,6.0,5.0,31.0,2020-12-12 01:28:48
+352,random,['bard'],exculpatory_conditional,1.0,AQNMUL1UD00RO,6.0,6.0,31.0,2020-12-12 01:51:44
+353,credible,['bard'],exculpatory_conditional,0.0,A157DWY9SATKXQ,3.0,0.0,11.0,2020-12-12 01:57:12
+354,inculpatory,['bard'],exculpatory_conditional,0.0,A2G84LIEPYMADK,6.0,3.0,28.0,2020-12-12 02:03:22
+355,credible,['bard'],exculpatory_conditional,1.0,A3S0IC3M8RZ54U,6.0,5.0,31.0,2020-12-12 02:13:00
+356,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,ERICA%20JAMES,6.0,5.0,31.0,2020-12-12 02:19:10
+357,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AM71SFJ7CQ247,1.0,0.0,2.0,2020-12-12 02:56:56
+358,random,['bard'],exculpatory_conditional,0.0,A4IYBMPPWD48R,3.0,0.0,11.0,2020-12-12 16:34:04
+359,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AKNU5D6QK7M72,5.0,2.0,22.0,2020-12-12 03:11:30
+360,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3095ZL4JJSSL4,,,,
+361,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2YI28QRIE0N3Z,,,2.0,2020-12-12 04:05:19
+362,credible,['bard'],exculpatory_conditional,0.0,A28ACRV5H79V7P,3.0,0.0,11.0,2020-12-12 04:23:54
+363,random,['bard'],exculpatory_conditional,0.0,A4SVKJZCSOX7R,5.0,2.0,22.0,2020-12-12 04:37:28
+364,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AMPGTS8U1LDAN,4.0,1.0,17.0,2020-12-12 04:42:37
+365,credible,['bard'],exculpatory_conditional,1.0,A25D3XR5G5HHX0,6.0,6.0,31.0,2020-12-12 05:05:26
+366,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,",knkjnlkj;;lkm",,,,
+367,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2PD9SHVWNX7Q2,6.0,6.0,31.0,2020-12-12 05:30:49
+368,inculpatory,['bard'],exculpatory_conditional,1.0,A18BMKC5VOLMPT,6.0,6.0,31.0,2020-12-12 05:49:50
+369,inculpatory,['bard'],exculpatory_conditional,1.0,A2OROMUVBD1NVC,6.0,6.0,31.0,2020-12-12 06:14:42
+370,credible,['bard'],exculpatory_conditional,1.0,A1I1W976IPR5J0,6.0,6.0,31.0,2020-12-12 08:30:29
+371,inculpatory,['bard'],exculpatory_conditional,0.0,A1CVJIKV6XJ6G8,,,,
+372,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1Q56N80RJLQ7S,4.0,4.0,20.0,2020-12-12 14:27:26
+373,random,['bard'],exculpatory_conditional,1.0,ACY3ZOOZMVS7Y,6.0,6.0,31.0,2020-12-12 14:29:39
+374,credible,['bard'],exculpatory_conditional,0.0,ANGX140AUBADX,,,,
+375,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1X1HUVI6BTIMV,3.0,0.0,11.0,2020-12-12 14:31:03
+376,credible,['bard'],exculpatory_conditional,0.0,A3AHQB31UANS2Q,3.0,0.0,11.0,2020-12-12 14:28:46
+377,random,['bard'],exculpatory_conditional,0.0,A3OMCO1B3Q1ET0,5.0,2.0,22.0,2020-12-12 14:24:55
+378,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,%20COPIEDA2USDJRXRSBI7S,3.0,0.0,11.0,2020-12-12 14:30:27
+379,random,['bard'],exculpatory_conditional,0.0,A2SWZXDFG3CEAK,3.0,0.0,11.0,2020-12-12 14:31:58
+380,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3L1OCQ016ILDX,1.0,0.0,4.0,2020-12-12 14:34:40
+381,random,['bard'],exculpatory_conditional,0.0,AS8ZVCZ69KGB4,2.0,2.0,8.0,2020-12-12 14:34:07
+382,random,['bard'],exculpatory_conditional,0.0,A13IQKFYQ5WIXS,2.0,2.0,7.0,2020-12-12 14:34:02
+383,credible,['bard'],exculpatory_conditional,0.0,A1BLTX32DOWRYK,,,,
+384,random,['bard'],exculpatory_conditional,0.0,A2VNSNAN1LZBAM,1.0,1.0,6.0,2020-12-12 14:35:15
+385,random,['bard'],exculpatory_conditional,0.0,A3D5VZQM079JQJ,,,2.0,2020-12-12 14:36:16
+386,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1G5N2J0IMPJE8,1.0,1.0,5.0,2020-12-12 14:38:02
+387,random,['bard'],exculpatory_conditional,0.0,A2HHBNMMODXL35,1.0,0.0,2.0,2020-12-12 14:38:32
+388,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1KT0D8YWLHN71,,,,
+389,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,testestestest,,,2.0,2020-12-14 17:36:43
+390,credible,['bard'],exculpatory_conditional,0.0,testytestytesty,,,1.0,2020-12-14 19:06:34
+391,credible,['bard'],exculpatory_conditional,0.0,A2YFQS0N1IAN9IA2YFQS0N1IAN9I,6.0,3.0,28.0,2020-12-14 19:13:18
+392,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3MJQQB0CQIHJP,2.0,0.0,7.0,2020-12-14 19:19:02
+393,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2U5OWTK0I9YBO,6.0,3.0,28.0,2020-12-14 19:23:00
+394,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1U3TT3VMH9FU9,6.0,4.0,31.0,2020-12-14 19:46:36
+395,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1HAE2YCP7B7I8,3.0,1.0,14.0,2020-12-14 21:18:54
+396,random,['bard'],exculpatory_conditional,1.0,A23WCDJKAT0RN5,6.0,6.0,31.0,2020-12-14 21:21:17
+397,random,['bard'],exculpatory_conditional,1.0,A34T4R7G25LDJM,6.0,4.0,31.0,2020-12-14 21:20:09
+398,random,['bard'],exculpatory_conditional,0.0,https://worker.mturk.com/projects/3Z18Y091VCUXOSB7DD6FWEWIC7FF1F/tasksA1DIAHI4Z5I72U,,,,
+399,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1DIAHI4Z5I72U,4.0,1.0,17.0,2020-12-15 02:21:47
+400,inculpatory,['bard'],exculpatory_conditional,0.0,ACXP8KHFX06KR,1.0,0.0,2.0,2020-12-14 21:26:57
+401,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A12IEOJ4GTJ00H,6.0,5.0,31.0,2020-12-14 21:29:52
+402,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A3BLJ6QSDTZC9U,6.0,6.0,31.0,2020-12-14 21:31:39
+403,random,['bard'],exculpatory_conditional,0.0,A34TMF92KMXNSV,2.0,0.0,7.0,2020-12-14 21:34:56
+404,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A11JIMV1EQESIC,6.0,6.0,31.0,2020-12-14 21:40:03
+405,inculpatory,['bard'],exculpatory_conditional,1.0,AFBVEFNU3LJ25,6.0,4.0,31.0,2020-12-14 21:41:21
+406,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2737204KZ6TJM,2.0,0.0,7.0,2020-12-14 21:42:48
+407,credible,['bard'],exculpatory_conditional,1.0,AHI7YD57642HS,6.0,5.0,31.0,2020-12-14 21:52:44
+408,inculpatory,['bard'],exculpatory_conditional,0.0,A5BVUW06ZQ6D3,,,,
+409,inculpatory,['bard'],exculpatory_conditional,1.0,A2WVCXVSE0YGML,6.0,6.0,31.0,2020-12-14 21:59:24
+410,inculpatory,['bard'],exculpatory_conditional,1.0,A38DHLB88V8DL8,6.0,6.0,31.0,2020-12-14 21:59:40
+411,credible,['bard'],exculpatory_conditional,1.0,A17ZQKHXYRCDD5,6.0,6.0,31.0,2020-12-14 22:03:54
+412,random,['bard'],exculpatory_conditional,1.0,A1DUAMWOX0BORV,6.0,6.0,31.0,2020-12-14 22:25:14
+413,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AJI0LRQLV9GGR,4.0,1.0,17.0,2020-12-14 22:09:36
+414,inculpatory,['bard'],exculpatory_conditional,0.0,A2W6EWTLRV8Z7E,1.0,0.0,2.0,2020-12-14 22:11:46
+415,credible,['bard'],exculpatory_conditional,0.0,A3KAYAX1FCN6HK,,,,
+416,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2OTLFQIR3121B,1.0,0.0,6.0,2020-12-14 22:22:20
+417,credible,['bard'],exculpatory_conditional,1.0,AWKUOA7M4P8YI,6.0,6.0,31.0,2020-12-14 22:26:48
+418,random,['bard'],exculpatory_conditional,0.0,AWGDD48HFUF1W,2.0,1.0,7.0,2020-12-14 22:31:27
+419,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A3KK5FKG3L0Q66,6.0,6.0,31.0,2020-12-14 22:40:55
+420,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A26GRGF6M1S5W9,,,2.0,2020-12-14 22:45:32
+421,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1198W1SPF1R4,6.0,6.0,31.0,2020-12-14 22:53:11
+422,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,AEF74ZYJTTEIA,6.0,6.0,31.0,2020-12-14 22:58:35
+423,inculpatory,['bard'],exculpatory_conditional,0.0,A2J1KKA30A4C3P,5.0,2.0,22.0,2020-12-14 23:03:48
+424,random,['bard'],exculpatory_conditional,1.0,A002160837SWJFPIAI7L7,6.0,6.0,31.0,2020-12-14 23:20:38
+425,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A33VGSEJ44ORMF,6.0,6.0,31.0,2020-12-14 23:20:42
+426,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A20C38AB8D6Z2L,,,2.0,2020-12-14 23:20:20
+427,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3TY0AVHVTOVJ7,3.0,0.0,11.0,2020-12-14 23:32:25
+428,inculpatory,['bard'],exculpatory_conditional,1.0,A3GO2JCV966XGE,6.0,6.0,31.0,2020-12-14 23:27:14
+429,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3MCGKRH5KEZR8,,,,
+430,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,AG36U7IOG2LAP,6.0,6.0,31.0,2020-12-14 23:33:28
+431,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2S3SV1LQTKJ8K,6.0,6.0,31.0,2020-12-14 23:40:07
+432,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A30US88GBGBG0V,6.0,5.0,31.0,2020-12-14 23:38:43
+433,inculpatory,['bard'],exculpatory_conditional,0.0,ATJ92FYQX176Z,1.0,1.0,6.0,2020-12-14 23:43:25
+434,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3CFBT2CBQQIZY,,,1.0,2020-12-14 23:50:28
+435,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,AAPJO2YFB16CM,6.0,5.0,31.0,2020-12-14 23:54:12
+436,credible,['bard'],exculpatory_conditional,1.0,A2LZ9KG42SZ3I0,6.0,6.0,31.0,2020-12-14 23:56:08
+437,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,AWAW665TQQP2F,6.0,6.0,31.0,2020-12-15 00:05:11
+438,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2YLK83DQ6PA5Y,6.0,6.0,31.0,2020-12-15 00:00:29
+439,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A27O7H19C0WQ7T,6.0,6.0,31.0,2020-12-15 00:04:46
+440,inculpatory,['bard'],exculpatory_conditional,1.0,AKSLU0C30G3JT,6.0,6.0,31.0,2020-12-15 00:07:43
+441,credible,['bard'],exculpatory_conditional,1.0,AAJ1ZQECDZBEE,6.0,6.0,31.0,2020-12-15 00:08:44
+442,inculpatory,['bard'],exculpatory_conditional,0.0,A28VRECAUOO7U9,5.0,5.0,25.0,2020-12-15 00:12:06
+443,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3A6BVDDO2M1C9,2.0,0.0,7.0,2020-12-15 00:16:21
+444,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,AHC727K66Y7Q0,6.0,6.0,31.0,2020-12-15 00:18:27
+445,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1DAU187NK9I4M,6.0,6.0,31.0,2020-12-15 00:25:49
+446,credible,['bard'],exculpatory_conditional,1.0,A3JTDNRJYVCGQD,6.0,6.0,31.0,2020-12-15 00:20:12
+447,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,AMOAGR64033TY,6.0,6.0,31.0,2020-12-15 00:19:57
+448,credible,['bard'],exculpatory_conditional,0.0,A3RBOMWBHO8FVB,,,,
+449,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A314HZMO5U42D8,6.0,6.0,31.0,2020-12-15 00:38:00
+450,credible,['bard'],exculpatory_conditional,1.0,A1FWL512NDBPBA,6.0,6.0,31.0,2020-12-15 00:41:10
+451,credible,['bard'],exculpatory_conditional,0.0,A3JHC4G2MHX9JS,3.0,0.0,11.0,2020-12-15 00:51:26
+452,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2B2HQHFBYLTXU,6.0,6.0,31.0,2020-12-15 01:01:37
+453,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,AYA1LRB27KSR1,6.0,6.0,31.0,2020-12-15 00:57:12
+454,credible,['bard'],exculpatory_conditional,1.0,AXOQ8FN7BIFGI,6.0,6.0,31.0,2020-12-15 01:00:37
+455,credible,['bard'],exculpatory_conditional,1.0,A12TKLBACBXNEW,6.0,6.0,31.0,2020-12-15 01:24:10
+456,inculpatory,['bard'],exculpatory_conditional,1.0,A1M24593XO5Z3C,6.0,6.0,31.0,2020-12-15 01:26:17
+457,credible,['bard'],exculpatory_conditional,1.0,A2PSNPBPX548KQ,6.0,6.0,31.0,2020-12-15 01:26:03
+458,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1LW7S3NBOSJPA,4.0,1.0,17.0,2020-12-15 01:36:48
+459,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3PI4ITVRG9ZWK,,,,
+460,random,['bard'],exculpatory_conditional,1.0,A33J9Z57TMJJSP,6.0,5.0,31.0,2020-12-15 01:57:22
+461,inculpatory,['bard'],exculpatory_conditional,0.0,A1R56DJ485MV3E,,,2.0,2020-12-15 01:56:55
+462,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A22A8HV5E06VQZ,5.0,3.0,22.0,2020-12-15 02:10:51
+463,inculpatory,['bard'],exculpatory_conditional,1.0,APRF959FYZDFN,6.0,4.0,31.0,2020-12-15 02:11:10
+464,credible,['bard'],exculpatory_conditional,0.0,A2AYGUG3WVAE8X,,,,
+465,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A3P4XZJM2DEATZ,6.0,6.0,31.0,2020-12-15 02:32:09
+466,random,['bard'],exculpatory_conditional,0.0,A1V18LQH0K1L62,,,2.0,2020-12-15 02:49:00
+467,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2CDAF10UOOIG6,6.0,6.0,31.0,2020-12-15 03:09:13
+468,credible,['bard'],exculpatory_conditional,1.0,A3E6HPXTP1ZCV6,6.0,4.0,31.0,2020-12-15 03:01:29
+469,inculpatory,['bard'],exculpatory_conditional,0.0,A1U0ZV3LHDLBGZ,3.0,0.0,11.0,2020-12-15 03:05:56
+470,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2OVX9UW5WANQE,6.0,6.0,31.0,2020-12-15 03:13:03
+471,random,['bard'],exculpatory_conditional,0.0,A12GM5Z7BHMG0D,5.0,2.0,22.0,2020-12-15 03:40:10
+472,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3AB866JYLTERS,3.0,0.0,11.0,2020-12-15 03:41:51
+473,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A33A1I9VLRW7YQ,3.0,0.0,11.0,2020-12-15 03:41:56
+474,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2ST4IPA3GYFSP,3.0,0.0,11.0,2020-12-15 04:15:54
+475,inculpatory,['bard'],exculpatory_conditional,0.0,A1BQMWW914N0S4,,,2.0,2020-12-15 04:34:59
+476,credible,['bard'],exculpatory_conditional,0.0,A299IDZN1XZG4H,1.0,0.0,2.0,2020-12-15 05:22:52
+477,random,['bard'],exculpatory_conditional,1.0,A38FIMIHKIJYDN,6.0,6.0,31.0,2020-12-15 05:36:10
+478,inculpatory,['bard'],exculpatory_conditional,0.0,AG979LACJ1PU8,1.0,0.0,7.0,2020-12-15 05:42:32
+479,random,['bard'],exculpatory_conditional,0.0,A39S5SE0ME5GUG,2.0,0.0,7.0,2020-12-15 06:21:29
+480,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1BYXQ8PL7ZFNS,6.0,5.0,31.0,2020-12-15 06:29:01
+481,inculpatory,['bard'],exculpatory_conditional,1.0,A1N53V41FMCR7Q,6.0,6.0,31.0,2020-12-15 06:34:15
+482,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AL6FC2OI6KM95,4.0,1.0,17.0,2020-12-15 06:59:45
+483,inculpatory,['bard'],exculpatory_conditional,1.0,A1LLBT92I9VVCQ,6.0,6.0,31.0,2020-12-15 07:06:48
+484,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AHBJGFJNUR0EC,,,,
+485,credible,['bard'],exculpatory_conditional,0.0,A1BQ7TAPC1235O,3.0,0.0,11.0,2020-12-15 13:22:28
+486,credible,['bard'],exculpatory_conditional,0.0,A3JN88NC5T41VM,3.0,1.0,11.0,2020-12-15 08:24:00
+487,inculpatory,['bard'],exculpatory_conditional,0.0,AY9T679IYU79I,5.0,2.0,22.0,2020-12-15 08:41:19
+488,credible,['bard'],exculpatory_conditional,1.0,A2LF84L3K71GR2,6.0,6.0,31.0,2020-12-15 09:45:57
+489,random,['bard'],exculpatory_conditional,0.0,A2RPWADMIRY42T,4.0,1.0,17.0,2020-12-15 11:08:44
+490,random,['bard'],exculpatory_conditional,0.0,A21MBN5FAXVDSF,,,1.0,2020-12-15 11:08:52
+491,inculpatory,['bard'],exculpatory_conditional,0.0,AMEQUH2AXDPR2,5.0,2.0,22.0,2020-12-15 11:09:58
+492,credible,['bard'],exculpatory_conditional,0.0,A31TZL82Q6JNSF,3.0,0.0,11.0,2020-12-15 11:09:22
+493,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A25DHG5ER7AVSX,3.0,1.0,11.0,2020-12-15 11:09:18
+494,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A246I35NUEIFYE,6.0,6.0,31.0,2020-12-15 11:13:32
+495,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A80SO9MBRFPYE,6.0,4.0,29.0,2020-12-15 11:11:00
+496,credible,['bard'],exculpatory_conditional,1.0,A16MXC30ZQ2W82,6.0,4.0,31.0,2020-12-15 11:11:32
+497,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2N8SM7NRJEDG5,4.0,1.0,17.0,2020-12-15 11:14:12
+498,random,['bard'],exculpatory_conditional,0.0,A20ZOAYRMRR2RA,4.0,1.0,17.0,2020-12-15 11:10:45
+499,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AT56XD6ZCJHH5,,,,
+500,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3BKUY3SFZKK6T,5.0,2.0,21.0,2020-12-15 11:12:42
+501,credible,['bard'],exculpatory_conditional,1.0,A1F9KLZGHE9DTA,6.0,6.0,31.0,2020-12-15 11:14:18
+502,inculpatory,['bard'],exculpatory_conditional,0.0,A1NPPAY3VQT849,3.0,0.0,11.0,2020-12-15 11:13:55
+503,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A142OND6055FT8,6.0,5.0,31.0,2020-12-15 11:14:03
+504,inculpatory,['bard'],exculpatory_conditional,0.0,A2PI5W803BVN1J,4.0,1.0,17.0,2020-12-15 11:14:28
+505,credible,['bard'],exculpatory_conditional,1.0,AISP1W21TP0H6,6.0,5.0,31.0,2020-12-15 11:17:48
+506,random,['bard'],exculpatory_conditional,0.0,A2K80ODOHDZ9QL,3.0,1.0,11.0,2020-12-15 11:20:00
+507,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AGO9UYGVEHK7U,4.0,1.0,17.0,2020-12-15 11:20:52
+508,inculpatory,['bard'],exculpatory_conditional,1.0,ASKUEWVYYCZWO,6.0,6.0,31.0,2020-12-15 11:24:22
+509,inculpatory,['bard'],exculpatory_conditional,0.0,AVR3NY5GN6BL2,,,,
+510,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1KK0U79F6OS7G,6.0,6.0,31.0,2020-12-15 11:25:31
+511,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1RH3X41J9J05R,6.0,6.0,31.0,2020-12-15 11:27:18
+512,credible,['bard'],exculpatory_conditional,1.0,A2IFP1BH4JU926,6.0,4.0,31.0,2020-12-15 11:27:24
+513,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A5P4NZBHLQIU5,6.0,6.0,31.0,2020-12-15 11:29:26
+514,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2FX4BE3C91RX1,6.0,6.0,31.0,2020-12-15 11:32:06
+515,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A20IA63WXHF683,6.0,6.0,31.0,2020-12-15 11:31:42
+516,credible,['bard'],exculpatory_conditional,0.0,AIZEPJVUHEDYZ,5.0,2.0,22.0,2020-12-15 11:30:28
+517,inculpatory,['bard'],exculpatory_conditional,0.0,A35BGE806G7Y07,2.0,1.0,11.0,2020-12-15 12:30:51
+518,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1J7VD5KF0A442,6.0,6.0,31.0,2020-12-15 11:46:36
+519,credible,['bard'],exculpatory_conditional,0.0,AMNM1PN1DMVR9,4.0,1.0,17.0,2020-12-15 11:31:23
+520,inculpatory,['bard'],exculpatory_conditional,0.0,123456789,,,,
+521,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A9LZD0HA6K7QX,6.0,3.0,28.0,2020-12-15 14:33:44
+522,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A10M2U35VDZIFL,6.0,5.0,31.0,2020-12-15 11:33:47
+523,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A20DFYOMPWDBP8,6.0,3.0,28.0,2020-12-15 11:35:11
+524,random,['bard'],exculpatory_conditional,0.0,A2NHFSO7GMM8QR,6.0,3.0,28.0,2020-12-15 11:36:47
+525,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,321213166526,,,,
+526,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2RLOB9VH2XSRT,6.0,6.0,31.0,2020-12-15 11:41:56
+527,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A22FGXLVFDAMKP,4.0,1.0,17.0,2020-12-15 11:42:27
+528,inculpatory,['bard'],exculpatory_conditional,0.0,A2O7QAQQFQFAOO,3.0,0.0,11.0,2020-12-15 11:42:57
+529,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2DIPD0N2YL9ST,3.0,0.0,11.0,2020-12-15 11:44:51
+530,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3FLARRKPV5ITF,4.0,1.0,17.0,2020-12-15 11:47:01
+531,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2MS1GQLGAX9FZ,2.0,2.0,7.0,2020-12-15 11:53:47
+532,credible,['bard'],exculpatory_conditional,1.0,AB2JXV5YUJ1Y7,,,31.0,2020-12-15 11:50:36
+533,random,['bard'],exculpatory_conditional,0.0,A1W4QXY7ZURK69,5.0,2.0,22.0,2020-12-15 11:51:03
+534,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2LCNS0GDGZJC6,3.0,0.0,11.0,2020-12-15 11:56:37
+535,inculpatory,['bard'],exculpatory_conditional,0.0,AHOAWSW1I3ELX,5.0,2.0,22.0,2020-12-15 06:03:31
+536,random,['bard'],exculpatory_conditional,1.0,AOG0PUCLMU0HH,6.0,5.0,31.0,2020-12-15 12:01:53
+537,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A23GBV8QE6V47A,,,2.0,2020-12-15 12:01:49
+538,credible,['bard'],exculpatory_conditional,0.0,A1XS4H15IKH0YL,5.0,2.0,22.0,2020-12-15 12:05:39
+539,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,AS4NIEQJWCG3M,6.0,6.0,31.0,2020-12-15 12:06:01
+540,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2OD2CFXV8WT53,3.0,0.0,11.0,2020-12-15 12:07:06
+541,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A17E3LY7IC0OO9,2.0,1.0,7.0,2020-12-15 12:08:58
+542,inculpatory,['bard'],exculpatory_conditional,0.0,A1JDWUFGRRZS64,2.0,1.0,7.0,2020-12-15 12:13:35
+543,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A88RBIQEK5OFT,5.0,2.0,22.0,2020-12-15 12:12:16
+544,random,['bard'],exculpatory_conditional,1.0,A24BRTWG07T53Z,6.0,6.0,31.0,2020-12-15 12:40:14
+545,credible,['bard'],exculpatory_conditional,1.0,A2X6JK36FJ3G3E,6.0,5.0,31.0,2020-12-15 12:24:50
+546,random,['bard'],exculpatory_conditional,0.0,A2X6JK36FJ3G3E,6.0,5.0,31.0,2020-12-15 12:24:50
+547,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3IWXRMHSCAOV8,,,2.0,2020-12-15 12:33:43
+548,credible,['bard'],exculpatory_conditional,1.0,A16SEKJCIC6HUS,6.0,6.0,31.0,2020-12-15 12:29:36
+549,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2EJWF3VD8D2B1,5.0,2.0,22.0,2020-12-15 12:47:43
+550,inculpatory,['bard'],exculpatory_conditional,1.0,A3K2RP0GCNCOAP,6.0,6.0,31.0,2020-12-15 12:34:03
+551,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1KPOY8TUVWK0Z,3.0,1.0,11.0,2020-12-15 12:34:25
+552,inculpatory,['bard'],exculpatory_conditional,1.0,A34U4186EW0B9X,6.0,6.0,31.0,2020-12-15 12:39:31
+553,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AXGX74CY42MQD,3.0,0.0,11.0,2020-12-15 12:38:56
+554,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3ERJEIOK31ATZ,3.0,1.0,14.0,2020-12-15 13:12:05
+555,random,['bard'],exculpatory_conditional,0.0,A1BXGDMXKIH2SH,2.0,0.0,7.0,2020-12-15 12:46:19
+556,random,['bard'],exculpatory_conditional,1.0,AOP9WB55GYGL7,6.0,6.0,31.0,2020-12-15 12:57:01
+557,random,['bard'],exculpatory_conditional,0.0,A23S43T3IIQ9RU,,,,
+558,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2RBIGF3LV2DOY,1.0,0.0,2.0,2020-12-15 13:08:43
+559,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1NPH1NMPOZGC6,6.0,5.0,31.0,2020-12-15 13:17:08
+560,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AZWL5WAILWDHE,1.0,1.0,6.0,2020-12-15 13:25:38
+561,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1QDCEBVFBQR63,6.0,6.0,31.0,2020-12-15 13:37:11
+562,random,['bard'],exculpatory_conditional,1.0,A26ZA5ZY0G5AGI,6.0,5.0,31.0,2020-12-15 13:43:10
+563,random,['bard'],exculpatory_conditional,0.0,A3O6HKQXS9LVT4,3.0,1.0,11.0,2020-12-15 11:12:13
+564,credible,['bard'],exculpatory_conditional,0.0,A1QJYHECPCO7CM,1.0,0.0,2.0,2020-12-15 13:44:52
+565,random,['bard'],exculpatory_conditional,0.0,AY1F3Z590EDLY,,,,
+566,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1GRLZL4F72RBJ,6.0,6.0,31.0,2020-12-15 13:47:21
+567,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2UJN8QT2Z6ELV,1.0,1.0,5.0,2020-12-15 13:50:49
+568,random,['bard'],exculpatory_conditional,0.0,A1BKF0KULCF6Y6,5.0,5.0,22.0,2020-12-15 13:53:32
+569,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3MO3KJFA8LWRT,3.0,0.0,11.0,2020-12-15 14:02:36
+570,random,['bard'],exculpatory_conditional,0.0,A3L3CPH74QYN3B,6.0,3.0,28.0,2020-12-15 14:07:25
+571,random,['bard'],exculpatory_conditional,1.0,A6U2C66WQ7QQN,6.0,6.0,31.0,2020-12-15 14:18:25
+572,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2LPDJOQQN9U71,3.0,2.0,11.0,2020-12-15 14:17:22
+573,credible,['bard'],exculpatory_conditional,0.0,A1C656HPV1N2F5,2.0,0.0,7.0,2020-12-15 14:20:09
+574,inculpatory,['bard'],exculpatory_conditional,1.0,A39GADIK8RLMVC,6.0,5.0,31.0,2020-12-15 14:27:53
+575,random,['bard'],exculpatory_conditional,0.0,AZL3K1ODMQGQ0,6.0,5.0,28.0,2020-12-15 14:31:55
+576,random,['bard'],exculpatory_conditional,1.0,A1TXNNM9JRHKBG,6.0,5.0,31.0,2020-12-15 14:43:33
+577,credible,['bard'],exculpatory_conditional,0.0,A1NE36LQVKANF7,,,,
+578,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1OW27AZS122X2,6.0,6.0,31.0,2020-12-15 14:50:31
+579,random,['bard'],exculpatory_conditional,0.0,ALKF763KECU1H,3.0,0.0,11.0,2020-12-15 15:23:45
+580,inculpatory,['bard'],exculpatory_conditional,1.0,A288RSAGJBLY9,6.0,6.0,31.0,2020-12-15 15:43:13
+581,random,['bard'],exculpatory_conditional,1.0,AUD00RI8TJCOC,6.0,6.0,31.0,2020-12-15 16:01:56
+582,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2WKZI3JQCE3Z6,,,,
+583,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2COX3LNS1XI7Y,3.0,1.0,11.0,2020-12-15 16:24:42
+584,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A18LAR2IV3FHF9,6.0,6.0,31.0,2020-12-15 16:30:22
+585,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A11Q3D9ADJUKHP,3.0,0.0,11.0,2020-12-15 16:37:33
+586,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A127VON6SHBDVO,,,,
+587,random,['bard'],exculpatory_conditional,1.0,A2H1QUGX0SOUMH,6.0,6.0,31.0,2020-12-15 16:53:12
+588,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A70TBKPGWQZO4,,,,
+589,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AVLRFQFTUDFJA,5.0,2.0,22.0,2020-12-15 17:23:02
+590,inculpatory,['bard'],exculpatory_conditional,0.0,A1BKX1AHM2NRY5,,,,
+591,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A23HZ18KTCK2DA,6.0,6.0,31.0,2020-12-15 17:58:30
+592,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2482SLAY120J2,6.0,6.0,31.0,2020-12-15 18:03:14
+593,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2E42CB78Y5UQB,4.0,1.0,17.0,2020-12-15 18:20:34
+594,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,ADFR737E4CDIK,4.0,1.0,17.0,2020-12-15 18:32:32
+595,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A6QDP0HAGE9W5,,,,
+596,credible,['bard'],exculpatory_conditional,0.0,AQ22FKL8ZY8WR,,,1.0,2020-12-15 19:54:43
+597,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1FN2NYN3T4S5S,3.0,0.0,11.0,2020-12-15 20:04:43
+598,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2CUAZD7OJDFYR,6.0,6.0,31.0,2020-12-15 20:26:10
+599,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,AJKB6GCZQNDUI,6.0,6.0,31.0,2020-12-15 21:33:55
+600,random,['bard'],exculpatory_conditional,0.0,A3GOX4QQRUO57C,6.0,3.0,28.0,2020-12-15 21:34:12
+601,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A3EO5H2EI4G4TC,6.0,5.0,31.0,2020-12-15 21:36:03
+602,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2QFHX7HAGTLOQ,1.0,0.0,3.0,2020-12-15 21:37:40
+603,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3728C36S28ER2,1.0,0.0,5.0,2020-12-15 23:10:14
+604,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2G7N0X0PNX0EE,6.0,6.0,31.0,2020-12-15 21:40:03
+605,credible,['bard'],exculpatory_conditional,1.0,A1FDDIQ0A0TIXL,6.0,4.0,31.0,2020-12-16 05:42:13
+606,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1973HI2B8Y3WX,3.0,0.0,11.0,2020-12-15 21:44:39
+607,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1FARD8D8S6WOA,6.0,5.0,31.0,2020-12-15 21:43:35
+608,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2K2TRMUY4UJWW,6.0,6.0,31.0,2020-12-15 21:45:46
+609,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2POU9TTW177VH,6.0,6.0,31.0,2020-12-15 22:00:20
+610,random,['bard'],exculpatory_conditional,0.0,A24TVS9MMCGD7L,2.0,1.0,7.0,2020-12-15 21:52:09
+611,inculpatory,['bard'],exculpatory_conditional,0.0,A1H8EMHI7917C6,,,,
+612,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2D77Z833MK3IF,6.0,6.0,31.0,2020-12-15 22:48:35
+613,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A128V4WDTJJ9MS,3.0,1.0,11.0,2020-12-15 23:00:28
+614,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A3737WAE5ECT0M,6.0,6.0,31.0,2020-12-15 23:01:26
+615,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2EY0J9LOPU3TU,6.0,6.0,31.0,2020-12-15 23:05:53
+616,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A15VI0QFR2YO50,6.0,6.0,31.0,2020-12-15 23:16:42
+617,random,['bard'],exculpatory_conditional,1.0,A2FP41BSPG0Y4A,6.0,6.0,31.0,2020-12-15 23:16:16
+618,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A30XZDPFT4LCQT,6.0,6.0,31.0,2020-12-15 23:17:44
+619,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A71NZTTHS4AMB,6.0,6.0,31.0,2020-12-15 23:24:16
+620,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2U5EPFZXHW519,2.0,0.0,7.0,2020-12-15 23:27:57
+621,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3UUH3632AI3ZX,2.0,2.0,8.0,2020-12-15 23:26:51
+622,random,['bard'],exculpatory_conditional,1.0,AJ50MVTHK3T5E,6.0,6.0,31.0,2020-12-15 23:41:04
+623,random,['bard'],exculpatory_conditional,1.0,AT60ESWGVSAG9,6.0,6.0,31.0,2020-12-15 23:40:54
+624,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AGNEWBU7179GY,,,1.0,2020-12-15 23:43:01
+625,inculpatory,['bard'],exculpatory_conditional,1.0,A13O22EMG5ZVN0,6.0,5.0,31.0,2020-12-15 23:44:10
+626,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,AJTLLYV8O5FQU,6.0,6.0,31.0,2020-12-15 23:46:43
+627,credible,['bard'],exculpatory_conditional,1.0,AHMHG8491PRQW,6.0,6.0,31.0,2020-12-15 23:46:34
+628,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1VQHQOFF6QT5L,1.0,1.0,6.0,2020-12-15 23:46:21
+629,credible,['bard'],exculpatory_conditional,0.0,A2XLMRL553Q4VZ,,,,
+630,random,['bard'],exculpatory_conditional,1.0,ABGFBUCWV7C23,6.0,6.0,31.0,2020-12-15 23:55:30
+631,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A3PDOZ6I8PE9ZK,6.0,6.0,31.0,2020-12-16 00:00:01
+632,inculpatory,['bard'],exculpatory_conditional,1.0,A2BPXWBO2OSJRP,6.0,6.0,31.0,2020-12-16 00:04:03
+633,random,['bard'],exculpatory_conditional,1.0,AS2WCX025VMT,6.0,5.0,31.0,2020-12-16 00:07:53
+634,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1WBGYZ6Y8NJ9,6.0,6.0,31.0,2020-12-16 00:09:08
+635,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A28Y4CEFC3NK1V,3.0,3.0,15.0,2020-12-16 00:11:25
+636,inculpatory,['bard'],exculpatory_conditional,1.0,A6J24NM8WHYTN,6.0,6.0,31.0,2020-12-16 00:17:34
+637,inculpatory,['bard'],exculpatory_conditional,1.0,A101TTS7WAVXAV,6.0,6.0,31.0,2020-12-16 00:24:20
+638,inculpatory,['bard'],exculpatory_conditional,1.0,AW0BLV9QJ601Q,6.0,6.0,31.0,2020-12-16 00:22:37
+639,credible,['bard'],exculpatory_conditional,1.0,A25XQ0GFZ57PPU,6.0,6.0,31.0,2020-12-16 00:24:33
+640,credible,['bard'],exculpatory_conditional,1.0,A18DXQDAY3A7DB,6.0,6.0,31.0,2020-12-16 00:22:23
+641,random,['bard'],exculpatory_conditional,1.0,A3FAQHVPI8OUP0,6.0,6.0,31.0,2020-12-16 00:26:58
+642,inculpatory,['bard'],exculpatory_conditional,0.0,A2RHJT0OMA09YH,2.0,0.0,7.0,2020-12-16 00:25:38
+643,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A203KZ01LO7120,4.0,2.0,17.0,2020-12-16 00:32:49
+644,inculpatory,['bard'],exculpatory_conditional,1.0,A382OV019QLW6H,6.0,6.0,31.0,2020-12-16 00:34:18
+645,inculpatory,['bard'],exculpatory_conditional,1.0,A1GJO1XN06Z8DU,6.0,6.0,31.0,2020-12-16 00:40:27
+646,credible,['bard'],exculpatory_conditional,1.0,A2YGZ409IST28,6.0,6.0,31.0,2020-12-16 00:49:43
+647,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A710KFWM7SFLG,,,,
+648,random,['bard'],exculpatory_conditional,1.0,AV6J56XKCIG7F,6.0,6.0,31.0,2020-12-16 00:54:29
+649,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1QUQ0TV9KVD4C,,,,
+650,credible,['bard'],exculpatory_conditional,1.0,A2I9PUZT19ZBO8,6.0,6.0,31.0,2020-12-16 00:55:59
+651,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,AS5W4VV79F5V,6.0,6.0,31.0,2020-12-16 00:56:27
+652,random,['bard'],exculpatory_conditional,1.0,A321UTTHJSC5PO,6.0,6.0,31.0,2020-12-16 00:56:54
+653,inculpatory,['bard'],exculpatory_conditional,1.0,A10HH9TRN6EVT4,6.0,6.0,31.0,2020-12-16 00:57:14
+654,random,['bard'],exculpatory_conditional,0.0,A35JT9S4WJLLNE,,,,
+655,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1YK3FJ1TUAQ72,3.0,3.0,11.0,2020-12-16 01:08:21
+656,inculpatory,['bard'],exculpatory_conditional,1.0,AST0FXXXUAA6T,6.0,6.0,31.0,2020-12-16 01:11:32
+657,credible,['bard'],exculpatory_conditional,1.0,A24NKUCAX1LURL,6.0,6.0,31.0,2020-12-16 01:15:08
+658,random,['bard'],exculpatory_conditional,1.0,AVMSKBK9JWV0M,6.0,6.0,31.0,2020-12-16 01:13:27
+659,inculpatory,['bard'],exculpatory_conditional,0.0,A14GOQTGU5OEMV,2.0,0.0,7.0,2020-12-16 01:14:25
+660,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3DT1TJRHSUAGZ,1.0,0.0,2.0,2020-12-16 01:19:52
+661,credible,['bard'],exculpatory_conditional,1.0,A3FIQNCS0RXQMZ,6.0,6.0,31.0,2020-12-16 01:26:32
+662,inculpatory,['bard'],exculpatory_conditional,1.0,A2WU8H7H28R0IJ,6.0,6.0,31.0,2020-12-16 01:28:43
+663,credible,['bard'],exculpatory_conditional,0.0,A3BG2VXRYD8BB2,5.0,2.0,22.0,2020-12-16 02:47:28
+664,inculpatory,['bard'],exculpatory_conditional,1.0,A15JI9ZIILGCAK,6.0,6.0,31.0,2020-12-16 02:54:14
+665,random,['bard'],exculpatory_conditional,0.0,AZ359IKGBESBH,5.0,2.0,22.0,2020-12-16 03:00:13
+666,inculpatory,['bard'],exculpatory_conditional,0.0,A2U2HE45MFHDIZ,5.0,2.0,22.0,2020-12-16 03:22:54
+667,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A35RZ2HKE9VWJ5,6.0,6.0,31.0,2020-12-16 04:03:20
+668,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3MEA0J9RREQAJ,2.0,0.0,7.0,2020-12-16 04:04:41
+669,random,['bard'],exculpatory_conditional,1.0,A25LXRZ7HED8RM,6.0,6.0,31.0,2020-12-16 04:39:33
+670,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,AM2NZYM1ODCK0,6.0,4.0,31.0,2020-12-16 04:45:01
+671,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,AE9B74Q4RH7A7,6.0,5.0,31.0,2020-12-16 05:31:00
+672,random,['bard'],exculpatory_conditional,0.0,A2MA7K3MXOYXPK,4.0,1.0,17.0,2020-12-16 06:14:47
+673,credible,['bard'],exculpatory_conditional,1.0,A15YZRTAPBI128,6.0,5.0,31.0,2020-12-16 08:06:45
+674,random,['bard'],exculpatory_conditional,0.0,jhcsbmn,3.0,0.0,11.0,2020-12-16 08:32:24
+675,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A14UIO4EQG1XB2,6.0,5.0,31.0,2020-12-16 08:35:34
+676,random,['bard'],exculpatory_conditional,1.0,A251VJ52J128F2,6.0,6.0,31.0,2020-12-16 08:52:57
+677,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,clickytest,,,,
+678,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,clickytest,,,,
+679,random,['bard'],exculpatory_conditional,0.0,juhtest,,,,
+680,random,['bard'],exculpatory_conditional,0.0,juhtest,,,,
+681,random,['bard'],exculpatory_conditional,0.0,A393PTHGYPKCRX,1.0,0.0,5.0,2020-12-16 17:37:04
+682,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1YW8JQFWDRSLL,5.0,4.0,24.0,2020-12-16 17:39:45
+683,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A24VDPRDUYM54J,3.0,0.0,11.0,2020-12-16 17:51:22
+684,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1VM6NUT8X5OPY,,,2.0,2020-12-16 17:53:20
+685,random,['bard'],exculpatory_conditional,1.0,A171UXH8M8F6HS,6.0,6.0,31.0,2020-12-16 18:00:52
+686,credible,['bard'],exculpatory_conditional,1.0,A33VA7QSHBGFM0,6.0,6.0,31.0,2020-12-16 18:04:05
+687,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2DRKCMVKZ884F,3.0,2.0,11.0,2020-12-16 18:05:03
+688,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3N0108ZPQV6R4,3.0,0.0,11.0,2020-12-16 18:12:44
+689,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3C0Z70QH05XHK,,,2.0,2020-12-16 18:14:20
+690,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1EP6C4J0HYLGT,,,,
+691,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A378DVZDTWCGQ7,6.0,6.0,31.0,2020-12-16 18:18:05
+692,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1LM8OCZ4TNAJ5,3.0,0.0,11.0,2020-12-16 18:24:27
+693,random,['bard'],exculpatory_conditional,0.0,A35GVG1B0TGRXA,,,,
+694,inculpatory,['bard'],exculpatory_conditional,0.0,A33KCN8G4T3XVR,,,1.0,2020-12-16 18:54:58
+695,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2EN9R04J4G85Y,3.0,0.0,11.0,2020-12-16 19:06:52
+696,inculpatory,['bard'],exculpatory_conditional,0.0,A1FUK4Y4IT509I,4.0,1.0,17.0,2020-12-16 19:19:14
+697,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A3CI73EFDLS3OF,6.0,6.0,31.0,2020-12-16 19:25:55
+698,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,ARDUF5F189FZD,5.0,2.0,22.0,2020-12-16 19:27:10
+699,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A2PUO91RWWTH0F,6.0,3.0,28.0,2020-12-16 19:45:55
+700,random,['bard'],exculpatory_conditional,0.0,A2EZGSYEMGMNV9,,,,
+701,inculpatory,['bard'],exculpatory_conditional,0.0,A1SSIZ1YKDKPOV,6.0,3.0,28.0,2020-12-16 19:57:58
+702,random,['bard'],exculpatory_conditional,1.0,A2JV461I3AIXOH,6.0,5.0,31.0,2020-12-16 20:00:59
+703,inculpatory,['bard'],exculpatory_conditional,1.0,A36FTFWKSRJHMR,6.0,5.0,31.0,2020-12-16 20:06:42
+704,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2WJMGV0HKQG3Z,6.0,6.0,31.0,2020-12-16 20:14:40
+705,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3HUIC0ANKQQEB,1.0,0.0,2.0,2020-12-16 20:17:52
+706,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A18PHFD6BWTP15,,,1.0,2020-12-16 20:33:58
+707,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,ADWDNBND4BW94,3.0,2.0,12.0,2020-12-16 20:37:39
+708,credible,['bard'],exculpatory_conditional,1.0,A188SHJZPHE8BA,6.0,6.0,31.0,2020-12-16 20:53:36
+709,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1L1S0IAPZB4MO,6.0,5.0,31.0,2020-12-16 21:03:20
+710,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A34KBIYMGPH924,6.0,6.0,31.0,2020-12-16 21:09:14
+711,inculpatory,['bard'],exculpatory_conditional,1.0,A1PKCBFB4QY19G,6.0,6.0,31.0,2020-12-16 21:15:41
+712,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,AOOLG2CQTP0D6,6.0,5.0,31.0,2020-12-16 21:17:33
+713,credible,['bard'],exculpatory_conditional,1.0,A1GHPGN19CVDMR,6.0,6.0,31.0,2020-12-16 21:18:38
+714,inculpatory,['bard'],exculpatory_conditional,1.0,A3SZ6U0IA6OB39,6.0,6.0,31.0,2020-12-16 21:19:58
+715,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,ATR4HRMH5G12W,6.0,3.0,28.0,2020-12-16 21:32:54
+716,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2A6FH0F7LD9ND,6.0,6.0,31.0,2020-12-16 21:44:33
+717,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A1WKX933Q1TCZY,3.0,1.0,11.0,2020-12-16 22:05:21
+718,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,AOIK8K4X34LGR,6.0,6.0,31.0,2020-12-16 22:26:57
+719,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A14WOQKK9IC5GD,6.0,6.0,31.0,2020-12-16 22:38:05
+720,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A3IFXTDM71LOPI,6.0,6.0,31.0,2020-12-16 22:47:00
+721,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A7VQJN8H4QMI6,6.0,6.0,31.0,2020-12-16 22:51:07
+722,random,['bard'],exculpatory_conditional,0.0,AGNJ95PFTXAMZ,1.0,1.0,2.0,2020-12-16 22:54:48
+723,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AERTGDDEFO9L5,,,,
+724,random,['bard'],exculpatory_conditional,1.0,A2TCOV49RNTECD,6.0,6.0,31.0,2020-12-16 23:08:42
+725,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A38LRU84UZTZBC,4.0,1.0,17.0,2020-12-16 23:13:39
+726,random,['bard'],exculpatory_conditional,1.0,A1PF01FF85HUY4,6.0,6.0,31.0,2020-12-16 23:33:40
+727,random,['bard'],exculpatory_conditional,0.0,A20RCHED1QJNFN,4.0,1.0,17.0,2020-12-16 23:39:45
+728,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A2X823PACMMOKP,6.0,6.0,31.0,2020-12-16 23:44:10
+729,random,['bard'],exculpatory_conditional,0.0,A1SWGSFIMZJQE,1.0,0.0,2.0,2020-12-16 23:45:46
+730,random,['bard'],exculpatory_conditional,1.0,A2F5QCUTZU7KF7,6.0,6.0,31.0,2020-12-17 00:29:27
+731,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,AQGJ6V57FZ7L7,4.0,3.0,18.0,2020-12-17 00:49:58
+732,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A8RAYYZKGDBQD%20,6.0,6.0,31.0,2020-12-17 01:06:18
+733,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A5B73N9C2HVEG,6.0,5.0,31.0,2020-12-17 01:19:30
+734,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A1MP9111IFPT1L,6.0,5.0,31.0,2020-12-17 02:14:22
+735,credible,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A16MOU06VATIZS,4.0,1.0,17.0,2020-12-17 04:53:45
+736,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,A3SXUQ7CZKBWFX,2.0,0.0,7.0,2020-12-17 05:58:54
+737,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,AJ3L0LXHJKSNY,6.0,4.0,31.0,2020-12-17 05:48:48
+738,credible,['bard'],exculpatory_conditional,0.0,A3IYFMRJ1DK6PH,,,2.0,2020-12-17 08:55:41
+739,random,"['bard', 'mltn', 'subj']",exculpatory_conditional,1.0,A20C6QZRCAMBK6,6.0,6.0,31.0,2020-12-17 10:05:44
+740,inculpatory,"['bard', 'mltn', 'subj']",exculpatory_conditional,0.0,ARQ05PDNXPFDI,1.0,1.0,4.0,2020-12-17 11:32:18
+741,credible,['bard'],exculpatory_conditional,0.0,test,,,,
